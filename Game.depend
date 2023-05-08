@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1682605989 source:c:\users\viet hung\onedrive\máy tính\mygamecb\game\baseobject.cpp
+	"BaseObject.h"
+
+1682962088 source:c:\users\viet hung\onedrive\máy tính\mygamecb\game\commonfunc.cpp
+	"CommonFunc.h"
+
+1682304482 source:c:\users\viet hung\onedrive\máy tính\mygamecb\game\gamemap.cpp
+	"GameMap.h"
+
+1683248446 source:c:\users\viet hung\onedrive\máy tính\mygamecb\game\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"GameMap.h"
+	"MainObject.h"
+	"ImpTimer.h"
+	"ThreatsObject.h"
+	"ExplosionObject.h"
+	"TextObject.h"
+	"PlayerStat.h"
+
+1682962088 c:\users\viet hung\onedrive\máy tính\mygamecb\game\commonfunc.h
+	<windows.h>
+	<string>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1682322812 c:\users\viet hung\onedrive\máy tính\mygamecb\game\baseobject.h
+	"CommonFunc.h"
+
+1682349890 c:\users\viet hung\onedrive\máy tính\mygamecb\game\gamemap.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1683127496 c:\users\viet hung\onedrive\máy tính\mygamecb\game\mainobject.h
+	<vector>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1683127807 source:c:\users\viet hung\onedrive\máy tính\mygamecb\game\mainobject.cpp
+	"MainObject.h"
+
+1682435678 source:c:\users\viet hung\onedrive\máy tính\mygamecb\game\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunc.h"
+
+1682414940 c:\users\viet hung\onedrive\máy tính\mygamecb\game\imptimer.h
+
+1683217445 source:c:\users\viet hung\onedrive\máy tính\mygamecb\game\bulletobject.cpp
+	"BulletObject.h"
+
+1682932225 c:\users\viet hung\onedrive\máy tính\mygamecb\game\bulletobject.h
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1682964579 source:c:\users\viet hung\onedrive\máy tính\mygamecb\game\threatsobject.cpp
+	"ThreatsObject.h"
+
+1682963911 c:\users\viet hung\onedrive\máy tính\mygamecb\game\threatsobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1683019672 c:\users\viet hung\onedrive\máy tính\mygamecb\game\explosionobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1683019714 source:c:\users\viet hung\onedrive\máy tính\mygamecb\game\explosionobject.cpp
+	"ExplosionObject.h"
+
+1683091776 c:\users\viet hung\onedrive\máy tính\mygamecb\game\textobject.h
+	"CommonFunc.h"
+
+1683089564 source:c:\users\viet hung\onedrive\máy tính\mygamecb\game\textobject.cpp
+	"TextObject.h"
+
+1683107154 c:\users\viet hung\onedrive\máy tính\mygamecb\game\playerstat.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1683248374 source:c:\users\viet hung\onedrive\máy tính\mygamecb\game\playerstat.cpp
+	"PlayerStat.h"
+
