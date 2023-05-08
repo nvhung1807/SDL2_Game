@@ -1,1 +1,5 @@
-# SDL2_Game
+ĐÂY LÀ GAME TÊN "GUNNER" THUỘC THỂ LOẠI GAME BẮN SÚNG
+DÙNG PHÍM <- VÀ -> ĐỂ CHẠY LÙI VÀ TIẾN
+DÙNG CHUỘT TRÁI ĐỂ BẮN, CHUỘT PHẢI ĐỂ NHẢY
+KHÔNG ĐƯỢC CHẠM VÀO QUÁI VẬT, NẾU KHÔNG SẼ MẤT 1 MẠNG
+CHẠY ĐẾN CUỔI MAP BẠN SẼ THẮNG
